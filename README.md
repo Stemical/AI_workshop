@@ -1,8 +1,8 @@
 # AI Workshop: Artificial Intelligence Algorithms for Everyone
 
-**Short-course & Hands-on Workshop**  
-**Dates:** June 23–26, 2025 
-**Instructor:** Dr. R.M. (Rolando) Gonzales Martinez
+**Short-course & Hands-on Workshop**  <br> 
+**Dates:** June 23–26, 2025 <br> 
+**Instructor:** Dr. R.M. (Rolando) Gonzales Martinez<br> 
 
 ---
 
@@ -13,7 +13,7 @@ This repository contains all materials for the four-day workshop covering:
 - **Introduction to AI & Python** (homogenization; history from automata to singularity)  
 - **Machine Learning Algorithms** (elastic nets, XGBoost, neural nets, SVMs, random forests; time-series forecasting with Prophet & LSTM; model evaluation & Bayesian hyper-tuning)  
 - **Deep Learning & Recent Trends** (Transformers & LLMs, RoBERTa-based sentiment analysis; ethical considerations; liquid nets; DeepSeek; quantum computing)  
-- **Practical Applications & Presentations** (MPS for child mortality; AI in space navigation; credit scoring; demographic forecasts; AI therapists; spatial ML; literature reviews with GPTs) :contentReference[oaicite:2]{index=2}
+- **Practical Applications & Presentations** (MPS for child mortality; AI in space navigation; credit scoring; demographic forecasts; AI therapists; spatial ML; literature reviews with GPTs)
 
 ---
 
