@@ -1,7 +1,7 @@
 # AI Workshop: Artificial Intelligence Algorithms for Everyone
 
 **Short-course & Hands-on Workshop**  
-**Dates:** June 23–26, 2025 :contentReference[oaicite:0]{index=0}  
+**Dates:** June 23–26, 2025 
 **Instructor:** Dr. R.M. (Rolando) Gonzales Martinez
 
 ---
