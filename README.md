@@ -1,4 +1,4 @@
-# AI Workshop: Artificial Intelligence Algorithms for Everyone
+# AI Workshop: <br> Artificial Intelligence Algorithms for Everyone
 
 **Short-course & Hands-on Workshop**  <br> 
 **Dates:** June 23–26, 2025 <br> 
