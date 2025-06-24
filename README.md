@@ -31,7 +31,7 @@ Practical demos: AI therapists, credit scoring, demographic forecasting, literat
 Each day is split into three 45-minute sections with breaks:  
 - Section 1: 14:30–15:15  | Break: 15:15–15:30  
 - Section 2: 15:30–16:15  | Break: 16:15–16:30  
-- Section 3: 16:30–17:00  | Q&A: 17:00–17:30 :contentReference[oaicite:3]{index=3}
+- Section 3: 16:30–17:00  | Q&A: 17:00–17:30
 
 ---
 
