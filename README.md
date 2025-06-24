@@ -42,14 +42,14 @@ AI_workshop/
 ├── 01_presentations/                # Slide decks ( .pdf)
 ├── 02_databases/                    # Sample data files
 ├── 03_python_scripts/               # .py Jupyter notebooks
-│   └──day_1
+│   └──day_1/
 │       ├── aiw_00_elizaAI.ipynb     # ELIZA-style AI therapist
 │       ├── aiw_01_salaries.ipynb    # OLS & Elastic Nets
-│       ├── aiw_02_credit.ipynb      # Credit scoring with ML
-│       └── aiw_03_creditlm.ipynb    # Credit scoring with logic models
-│   └──day_2
-│       ├── aiw_creditML01.ipynb     # Credit scoring model
-│       ├── aiw_creditML01.ipynb     # SVM, XGBoost
+│       ├── aiw_02_credit.ipynb      # Credit scoring with logistic models
+│       └── aiw_03_creditlm.ipynb    # Credit scoring with Elastic nets
+│   └──day_2/
+│       ├── aiw_creditML01.ipynb     # Support vector machine
+│       ├── aiw_creditML01.ipynb     # SVM, XGBoost, random forests
 │       ├── aiw_creditML01.ipynb     # k-fold cross-validation
 │       ├── aiw_creditML01.ipynb     # Feature selection
 │       └── aiw_creditML01.ipynb     # Tuning of hyper-parameters
