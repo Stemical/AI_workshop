@@ -24,7 +24,9 @@ This repository contains all materials for the four-day workshop covering:
 | **Mon 23**| • History of AI (automata → deep nets → human-level AI)  <br> • Python for AI & Elastic Nets                              |
 | **Tue 24**| • Classification & regression: Elastic Nets, XGBoost, ANN, SVM, RF  <br> • Time-series with Prophet & LSTM  <br> • Feature engineering, model evaluation, Bayesian tuning |
 | **Wed 25**| • Deep learning & Transformers  <br> • RoBERTa semantic/sentiment analysis  <br> • Ethics & mitigation strategies  <br> • Advances: liquid nets, DeepSeek, spatial ML, quantum |
-| **Thu 26**| • Participant presentations: <br>   – Child mortality via MPS (Kassoum Dianou)  <br>   – AI for autonomous space navigation (Duna Meya i Mendoza) <br> • Practical demos: AI therapists, credit scoring, demographic forecasting, literature reviews, local LLMs |
+| **Thu 26**| • Participant presentations: <br>   – Child mortality via MPS (Kassoum Dianou)  <br>   – AI for autonomous space navigation (Duna Meya i Mendoza) |
+
+Practical demos: AI therapists, credit scoring, demographic forecasting, literature reviews, local LLMs
 
 Each day is split into three 45-minute sections with breaks:  
 - Section 1: 14:30–15:15  | Break: 15:15–15:30  
@@ -37,13 +39,20 @@ Each day is split into three 45-minute sections with breaks:
 
 ```text
 AI_workshop/
-├── 01_presentations/            # Slide decks (.pptx, .pdf)
-├── 02_databases/                # Sample data files
-├── 03_python_scripts/           # Jupyter notebooks and .py demos
-│   ├── aiw_00_elizaAI.ipynb   # ELIZA-style AI therapist
-│   ├── aiw_01_salaries.ipynb  # OLS & Elastic Nets
-│   ├── aiw_02_credit.ipynb    # Credit scoring with ML
-│   └── aiw_03_creditlm.ipynb  # Credit scoring with logic models
-├── 04_additional_lectures/      # Papers, books, extra readings
-└── README.md                 # This file
+├── 01_presentations/                # Slide decks ( .pdf)
+├── 02_databases/                    # Sample data files
+├── 03_python_scripts/               # .py Jupyter notebooks
+│   └──day_1
+│       ├── aiw_00_elizaAI.ipynb     # ELIZA-style AI therapist
+│       ├── aiw_01_salaries.ipynb    # OLS & Elastic Nets
+│       ├── aiw_02_credit.ipynb      # Credit scoring with ML
+│       └── aiw_03_creditlm.ipynb    # Credit scoring with logic models
+│   └──day_2
+│       ├── aiw_creditML01.ipynb     # Credit scoring model
+│       ├── aiw_creditML01.ipynb     # SVM, XGBoost
+│       ├── aiw_creditML01.ipynb     # k-fold cross-validation
+│       ├── aiw_creditML01.ipynb     # Feature selection
+│       └── aiw_creditML01.ipynb     # Tuning of hyper-parameters
+├── 04_additional_lectures/          # Papers, books, extra readings
+└── README.md                        # This file
 
